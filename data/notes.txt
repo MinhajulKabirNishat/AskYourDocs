@@ -1,0 +1,4 @@
+RAG stands for Retrieval Augmented Generation.
+It combines document retrieval with language models.
+FAISS enables fast similarity search.
+Embeddings convert text into vectors.
